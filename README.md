@@ -51,9 +51,7 @@ I hope this project could serve as a thought practice in envisioning the future 
 ## Experiments
 
 [**Draw with AI**](/drawWithAI)
-
 AI and you will take turn to draw together (Bonus you could also draw with your nose)
 
 [**Erase with AI**](/eraseWithAI)
-
 AI will erase what you draw and you will erase what AI draw. 
