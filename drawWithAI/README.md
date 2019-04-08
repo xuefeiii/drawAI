@@ -1,6 +1,6 @@
 # Draw with AI
 
-![Preview](/assets/drawWithAI.png)
+![Preview](drawWithAI/assets/drawWithAI.png)
 
 ## Instructions
 To play with Draw AI, open the index.html file directly after download. 
