@@ -2,6 +2,19 @@
 
 This project is an experiment on collaborative creativity with Machine Learning using [ml5.js](https://ml5js.org).
 
+
+## Experiments
+
+[**Draw with AI**](/drawWithAI)
+
+AI and you will take turn to draw together (Bonus you could also draw with your nose)
+
+
+[**Erase with AI**](/eraseWithAI)
+
+AI will erase what you draw and you will erase what AI draw. 
+
+
 ## Background
 
 Humans create. 
@@ -46,12 +59,3 @@ For question #1, I plan to publish a series of medium articles to capture the fi
 For question #2, I aim to create a series of small experiments of creativity platform for people to try out and play with, such the experiments I included in this repo with SketchRNN and ml5. 
 
 I hope this project could serve as a thought practice in envisioning the future form of creativity, and a step towards building the future tools for creativity. 
-
-
-## Experiments
-
-[**Draw with AI**](/drawWithAI)
-AI and you will take turn to draw together (Bonus you could also draw with your nose)
-
-[**Erase with AI**](/eraseWithAI)
-AI will erase what you draw and you will erase what AI draw. 
